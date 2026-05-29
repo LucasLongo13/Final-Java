@@ -1,5 +1,5 @@
 package ui;
-
+ 
 import java.util.Scanner;
 import modelo.*;
 import sistema.SistemaGimnasio;
